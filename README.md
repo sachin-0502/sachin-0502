@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sachin Sharma.</h1>
-<h3 align="center">A passionate data analyst and data science enthusiast who enjoys documenting learning journey.</h3>
+<h3 align="center">A passionate data science and analytics enthusiast who enjoys documenting learning journey.</h3>
 
-- 🌱 I’m currently developing my **analysis skills and data storytelling.**
+- 🌱 I’m currently developing my **data science and analysis skills and data storytelling.**
 
-- 🌱 I'm open to collaborate on **data analysis projects, volunteer or otherwise.**
+- 🌱 I'm open to collaborate on **data science and analysis projects, volunteer or otherwise.**
 
 - 📫 Reach me at **sachinsharma1699@gmail.com**
 
