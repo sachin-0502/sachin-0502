@@ -1,9 +1,13 @@
-<h1 align="center">Hi 👋, I'm Sachin Sharma.</h1>
-<h3 align="center">A passionate data science and analytics enthusiast who enjoys documenting learning journey.</h3>
+<h1 align="center">Hi 👋, I'm Sachin Sharma</h1>
+<h3 align="center">A passionate data analyst and data science enthusiast who enjoys documenting learning journey.</h3>
 
-- 🌱 I’m currently developing my **data science and analysis skills and data storytelling.**
+- 🌱 I’m currently developing my **data science and analysis skills with data storytelling..**
 
-- 🌱 I'm open to collaborate on **data science and analysis projects, volunteer or otherwise.**
+- 🌱 I'm open to collaborate on **data analysis and data science projects, volunteer or otherwise.**
+
+- 👨‍💻 Checkout my portfolio [https://sachin-0502.github.io/Portfolio_website/](https://sachin-0502.github.io/Portfolio_website/)
+
+- 📄 My Resume [https://drive.google.com/file/d/1Bvf97yjXiCo8ugAd0KtEdPiEGalS4iT1/view?usp=drive_link](https://drive.google.com/file/d/1Bvf97yjXiCo8ugAd0KtEdPiEGalS4iT1/view?usp=drive_link)
 
 - 📫 Reach me at **sachinsharma1699@gmail.com**
 
@@ -16,3 +20,4 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachin-0502&show_icons=true&locale=en&layout=compact" alt="sachin-0502" /></p>
