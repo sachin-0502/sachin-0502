@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sachin Sharma</h1>
 <h3 align="center">A passionate data analyst and data science enthusiast who enjoys documenting learning journey.</h3>
 
+- 🌱 I’m currently a **Data Analyst at Rishabh Associates working for India Cements Ltd ..**
+
 - 🌱 I’m currently developing my **data science and analysis skills with data storytelling..**
 
 - 🌱 I'm open to collaborate on **data analysis and data science projects, volunteer or otherwise.**
